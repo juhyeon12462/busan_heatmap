@@ -1,7 +1,7 @@
 import { CITIES } from '@/config/cities';
 import type { CitiesMetadata, HeatmapData, SpatialUnit } from '@/types';
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || '/api';
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://busan-heatmap.onrender.com/api';
 const STATIC_BASE_URL = '/data';
 
 function formatLocalDate(date: Date): string {
