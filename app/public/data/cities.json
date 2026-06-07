@@ -1,0 +1,140 @@
+{
+  "cities": [
+    {
+      "code": "busan",
+      "name": "Busan",
+      "name_ko": "부산광역시",
+      "center": [
+        129.0756,
+        35.1796
+      ],
+      "zoom": 10.4,
+      "bounds": [
+        [
+          128.76,
+          34.88
+        ],
+        [
+          129.32,
+          35.4
+        ]
+      ],
+      "districts": [
+        {
+          "code": "2611",
+          "name": "Jung-gu",
+          "name_ko": "중구"
+        },
+        {
+          "code": "2614",
+          "name": "Seo-gu",
+          "name_ko": "서구"
+        },
+        {
+          "code": "2617",
+          "name": "Dong-gu",
+          "name_ko": "동구"
+        },
+        {
+          "code": "2620",
+          "name": "Yeongdo-gu",
+          "name_ko": "영도구"
+        },
+        {
+          "code": "2623",
+          "name": "Busanjin-gu",
+          "name_ko": "부산진구"
+        },
+        {
+          "code": "2626",
+          "name": "Dongnae-gu",
+          "name_ko": "동래구"
+        },
+        {
+          "code": "2629",
+          "name": "Nam-gu",
+          "name_ko": "남구"
+        },
+        {
+          "code": "2632",
+          "name": "Buk-gu",
+          "name_ko": "북구"
+        },
+        {
+          "code": "2635",
+          "name": "Haeundae-gu",
+          "name_ko": "해운대구"
+        },
+        {
+          "code": "2638",
+          "name": "Saha-gu",
+          "name_ko": "사하구"
+        },
+        {
+          "code": "2641",
+          "name": "Geumjeong-gu",
+          "name_ko": "금정구"
+        },
+        {
+          "code": "2644",
+          "name": "Gangseo-gu",
+          "name_ko": "강서구"
+        },
+        {
+          "code": "2647",
+          "name": "Yeonje-gu",
+          "name_ko": "연제구"
+        },
+        {
+          "code": "2650",
+          "name": "Suyeong-gu",
+          "name_ko": "수영구"
+        },
+        {
+          "code": "2653",
+          "name": "Sasang-gu",
+          "name_ko": "사상구"
+        },
+        {
+          "code": "2671",
+          "name": "Gijang-gun",
+          "name_ko": "기장군"
+        }
+      ]
+    }
+  ],
+  "availableDates": [
+    "2026-04-18"
+  ],
+  "availableHours": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ],
+  "supportedScenarios": [
+    "past",
+    "current",
+    "future_7d"
+  ]
+}

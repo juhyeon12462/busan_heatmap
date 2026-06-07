@@ -1,0 +1,21 @@
+﻿# 대용량 데이터 파일
+제공data/GEE 위성정보.zip
+제공data/부산시 건물 데이터.zip
+제공data/토지,밀집,녹지,부산경계.zip
+제공data/weather_hourly_busan_districts.csv
+제공data/부산시 녹지공원 데이터.zip
+update_input/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+
+# 환경변수
+.env
